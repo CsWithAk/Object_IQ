@@ -34,9 +34,9 @@ notifications:
     smtp_server: "smtp.gmail.com"
     smtp_port: 587
     use_tls: true
-    sender_email: "object.iq0403@gmail.com"           # Your project email address
-    sender_password: "ojiindfdsalnmvrm"                # App password (not your regular password)
-    recipient_email: "before01012000@gmail.com"       # Recipient admin email address
+    sender_email: "amit@gmail.com"           # Your project email address
+    sender_password: "abcdefghijklmnop"                # App password (not your regular password)
+    recipient_email: "amit1@gmail.com"       # Recipient admin email address
 
 # Camera/Input Settings
 camera:
