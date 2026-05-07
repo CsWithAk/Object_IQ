@@ -55,7 +55,7 @@ logging:
 # MongoDB Atlas Database Settings
 database:
   # MongoDB Atlas Connection String
-  connection_string: "mongodb+srv://objectiq0403_db_user:1YOTXIRHpolw6wnm@cluster0.zgn5qvy.mongodb.net/"      # MonbgoDB connection
+  connection_string: "mongodb+srv://Your_DB_username:your_DB_password@cluster0.zgn5qvy.mongodb.net/"      # MonbgoDB connection
   database_name: "object_detection"
   
   # Collection Names
